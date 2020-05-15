@@ -1,5 +1,5 @@
 {
-  "name": "suemitsu/zipper",
+  "name": "dasraab/zipper",
   "type": "library",
   "description": "This is a little neat helper for the ZipArchive methods with handy functions",
   "keywords": [
@@ -11,9 +11,9 @@
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "Nils Plaschke",
-      "email": "github@nilsplaschke.de",
-      "homepage": "http://nilsplaschke.de",
+      "name": "Benjamin Schneider ",
+      "email": "bs@bitbird.de",
+      "homepage": "http://www.bitbird.de",
       "role": "Developer"
     }
   ],
